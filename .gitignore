@@ -1,0 +1,8 @@
+node_modules/
+.terraform/
+terraform.tfstate*
+*.log
+.env
+*.zip
+*.tar.gz
+__pycache__/
